@@ -1,0 +1,40 @@
+.container {
+  height: 100vh;
+  // background-color: yellow;
+
+}
+.header {
+  background-color: red;
+  height: 30px;
+}
+
+.main {
+  background-color: green;
+  // overflow-y: auto;
+  overflow: hidden;
+}
+
+.footer {
+  background-color: blue;
+  height: 30px;
+}
+
+
+.forms-content {
+  background-color: yellow;
+  overflow-y: auto;
+}
+
+.schema-content {
+  background-color: gray;
+}
+
+.page-forms-footer {
+  background-color: aqua;
+  height: 30px;
+}
+
+.page-schema-footer {
+  background-color: pink;
+  height: 30px;
+}
