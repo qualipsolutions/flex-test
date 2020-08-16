@@ -4,10 +4,12 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { UserPageComponent } from './user-page/user-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    UserPageComponent
   ],
   imports: [
     FlexLayoutModule,

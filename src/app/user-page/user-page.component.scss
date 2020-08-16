@@ -1,0 +1,33 @@
+
+.container-page {
+  background-color: yellow;
+  min-height: 30px;
+  min-width: 30px;
+}
+
+
+.forms-content {
+  background-color: yellow;
+  overflow-y: auto;
+}
+
+.schema-content {
+  background-color: gray;
+}
+
+.page-forms-footer {
+  background-color: aqua;
+  height: 30px;
+}
+
+.page-schema-footer {
+  background-color: pink;
+  height: 30px;
+}
+
+.router-flex {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+}
+
